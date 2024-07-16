@@ -12,3 +12,7 @@ TinyNet is a lightweight neural network library built on top of **micrograd**, a
 * Supports a variety of neural network architectures
 * Efficient implementation powered by micrograd
 * Ideal for learning and experimentation
+
+# Resource 
+
+https://github.com/karpathy/micrograd
